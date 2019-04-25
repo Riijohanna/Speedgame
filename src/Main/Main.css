@@ -1,24 +1,17 @@
 
-#table {
-  display: inline-flex;
-  margin: 0 auto;
-  padding: 50px;
-  text-align: center;
-
-}
-.circle:active {
+.Main:active {
   box-shadow: inset 0px 0px 5px #000;
 }
-.circle {
+.Main {
   display: inline-block;
   border-radius: 50%;
-  height: 165px;
-  width: 165px;
+  height: 170px;
+  width: 170px;
   margin: 20px;
   background: #42c692;
-  box-shadow: inset 0px 0px 10px black;
-  margin-top: 30%;
+  box-shadow: inset 0px 0px 10px #000;
+  margin-top: 5em;
 }
-.circle:focus {
+.Main:focus {
   outline:none;
 }
