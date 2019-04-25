@@ -18,10 +18,10 @@ class App extends Component {
       </div>
       <Header />
       <div>
-      <Main />
-      <Main />
-      <Main />
-      <Main />
+      <Main myclick = {this.clickHandler}/>
+      <Main myclick = {this.clickHandler}/>
+      <Main myclick = {this.clickHandler}/>
+      <Main myclick = {this.clickHandler}/>
       </div>
       <Window />
       </div>
