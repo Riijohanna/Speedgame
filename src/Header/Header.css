@@ -3,7 +3,7 @@
   padding: 0;
 }
 .Header {
-  height: 20px;
+  height: 30px;
   width: 100vw;
 }
 h2 {
@@ -13,6 +13,6 @@ h2 {
   font-size: 34px;
   padding-top: 15px;
 }
-span {
+p {
   padding: 5px;
 }

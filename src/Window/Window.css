@@ -1,12 +1,12 @@
 #win {
-  visibility: hidden;
+
   display: inline-block;
-  height: 185px;
-  width: 285px;
+  height: 200px;
+  width: 385px;
   background-color: darkgrey;
   border-radius: 20px;
   position: absolute;
-  left: 41%;
+  left: 36%;
   top: 30%;
   margin-left: 20px;
 }

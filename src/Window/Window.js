@@ -5,8 +5,9 @@ class Window extends Component {
   render() {
     return (
       <div className="Footer" id='win'>
-      <p id='gameover'></p><div id='close' onclick="window.location.reload()">
-      Close</div></div>
+      <p id='gameover'>Ups, game over! Your final score is: </p>
+      <button id='close' onclick="window.location.reload()">
+      Close</button></div>
 
             );
           }
