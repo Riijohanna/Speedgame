@@ -1,11 +1,11 @@
-#win {
 
+#win {
   display: inline-block;
   height: 200px;
   width: 385px;
   background-color: darkgrey;
   border-radius: 20px;
-  position: absolute;
+  position: absolute;    
   left: 36%;
   top: 30%;
   margin-left: 20px;
@@ -21,5 +21,15 @@
 #close {
   margin: 3em;
   border: none;
-  background-color: rgba(0 0 0 0.5 black); /* transparency here... */
+}
+#overlay {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.7);  /* transparency here the last one... */
+display: flex;
+justify-content: center;
+align-items: center;
 }

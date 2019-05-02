@@ -15,3 +15,6 @@
 .Main:focus {
   outline:none;
 }
+div.Main.active {
+  background-color: rgb(0, 161, 212);
+}

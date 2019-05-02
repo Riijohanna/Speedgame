@@ -5,7 +5,7 @@ class Main extends Component {
 
   render() {
     return (
-      <div className="Main" onClick={this.props.myclick}>
+      <div className={"Main" + (this.props.active ? ' active': '')} onClick={this.props.myclick}>
   </div>
       );
     }
