@@ -1,5 +1,5 @@
 {
-  "main.css": "/Speedgame/static/css/main.7dc12329.chunk.css",
+  "main.css": "/Speedgame/static/css/main.8bb3de60.chunk.css",
   "main.js": "/Speedgame/static/js/main.294f20e2.chunk.js",
   "main.js.map": "/Speedgame/static/js/main.294f20e2.chunk.js.map",
   "runtime~main.js": "/Speedgame/static/js/runtime~main.fcc3f77f.js",
@@ -7,7 +7,7 @@
   "static/js/2.f0927397.chunk.js": "/Speedgame/static/js/2.f0927397.chunk.js",
   "static/js/2.f0927397.chunk.js.map": "/Speedgame/static/js/2.f0927397.chunk.js.map",
   "index.html": "/Speedgame/index.html",
-  "precache-manifest.2b2d616215408e3869752c4407da23ff.js": "/Speedgame/precache-manifest.2b2d616215408e3869752c4407da23ff.js",
+  "precache-manifest.ff37d4cb2f34ae6d710a2076cadf335d.js": "/Speedgame/precache-manifest.ff37d4cb2f34ae6d710a2076cadf335d.js",
   "service-worker.js": "/Speedgame/service-worker.js",
-  "static/css/main.7dc12329.chunk.css.map": "/Speedgame/static/css/main.7dc12329.chunk.css.map"
+  "static/css/main.8bb3de60.chunk.css.map": "/Speedgame/static/css/main.8bb3de60.chunk.css.map"
 }

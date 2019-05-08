@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Speedgame/static/js/runtime~main.fcc3f77f.js"
   },
   {
-    "revision": "68ccf153c63ccd57b9c6",
+    "revision": "b336d6facf4dc322cbaf",
     "url": "/Speedgame/static/js/main.294f20e2.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/Speedgame/static/js/2.f0927397.chunk.js"
   },
   {
-    "revision": "68ccf153c63ccd57b9c6",
-    "url": "/Speedgame/static/css/main.7dc12329.chunk.css"
+    "revision": "b336d6facf4dc322cbaf",
+    "url": "/Speedgame/static/css/main.8bb3de60.chunk.css"
   },
   {
-    "revision": "71afbe06413e0dfd1bf44f31557ace2d",
+    "revision": "58b13905a476840254a53136aba068d0",
     "url": "/Speedgame/index.html"
   }
 ];
