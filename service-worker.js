@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Speedgame/precache-manifest.63c611ae2a001ddab0deaba8469a613b.js"
+  "/Speedgame/precache-manifest.2b2d616215408e3869752c4407da23ff.js"
 );
 
 workbox.clientsClaim();
