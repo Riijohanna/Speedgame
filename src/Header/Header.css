@@ -1,11 +1,11 @@
 * {
   margin: 0 auto;
   padding: 0;
+  background: linear-gradient(to right, #12FFF7, #B3FFAB); 
 }
 .Header {
   height: 30px;
   width: 100vw;
-  background: linear-gradient(to right, #12FFF7, #B3FFAB); 
 }
 h2 {
   text-align: center;
